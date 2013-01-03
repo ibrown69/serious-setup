@@ -27,3 +27,4 @@ Find software that works. Write it down here, then think about using Puppet/Auto
   - ```curl -s https://getcomposer.org/installer | php```
 - [Cyberduck](http://cyberduck.ch/)
 - [ImageOptim](http://imageoptim.com/)
+- [Windows Remote Desktop Connection](http://www.microsoft.com/mac/remote-desktop-client)
