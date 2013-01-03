@@ -19,4 +19,4 @@ Find software that works. Write it down here, then think about using Puppet/Auto
 - [Chrome](www.google.co.uk/chrome)
 - Safari - Just make sure it's there…
 - [Opera](http://www.opera.com/browser/)
-- Dot Files
+- [Dot Files](https://github.com/bennomcmanus/dotfiles)
