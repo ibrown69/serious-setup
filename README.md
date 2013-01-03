@@ -14,7 +14,7 @@ Find software that works. Write it down here, then think about using Puppet/Auto
   - [Firebug](http://getfirebug.com/)
   - [Web Developer Toolbar](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
   - [Poster](https://addons.mozilla.org/en-us/firefox/addon/poster/)
- - ColorZilla
+  - [ColorZilla](http://www.colorzilla.com/firefox/)
 - Chrome
 - Safari
 - Opera
