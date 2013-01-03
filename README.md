@@ -12,7 +12,7 @@ Find software that works. Write it down here, then think about using Puppet/Auto
 - [Dash](https://itunes.apple.com/gb/app/dash-docs-snippets/id458034879?mt=12)
 - [Firefox](http://www.mozilla.org/)
   - [Firebug](http://getfirebug.com/)
- - Web Developer Toolbar
+  - [Web Developer Toolbar](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
  - Poster
  - ColorZilla
 - Chrome
