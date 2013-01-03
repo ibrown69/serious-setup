@@ -9,7 +9,7 @@ Find software that works. Write it down here, then think about using Puppet/Auto
     - [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Vagrant](http://downloads.vagrantup.com/)
-- Dash
+- [Dash](https://itunes.apple.com/gb/app/dash-docs-snippets/id458034879?mt=12)
 - Firefox
  - Firebug
  - Web Developer Toolbar
