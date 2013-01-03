@@ -10,7 +10,7 @@ Find software that works. Write it down here, then think about using Puppet/Auto
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Vagrant](http://downloads.vagrantup.com/)
 - [Dash](https://itunes.apple.com/gb/app/dash-docs-snippets/id458034879?mt=12)
-- Firefox
+- [Firefox](http://www.mozilla.org/)
  - Firebug
  - Web Developer Toolbar
  - Poster
