@@ -20,3 +20,5 @@ Find software that works. Write it down here, then think about using Puppet/Auto
 - Safari - Just make sure it's there…
 - [Opera](http://www.opera.com/browser/)
 - [Dot Files](https://github.com/bennomcmanus/dotfiles)
+- [NodeJS](http://nodejs.org/)
+  -  NPM Modules: ```$ npm install recess uglify-js jshint -g```
