@@ -8,7 +8,7 @@ Find software that works. Write it down here, then think about using Puppet/Auto
     - [Sublime Package Manageer](http://wbond.net/sublime_packages/package_control/installation)
     - [SublimeCodeIntel](https://github.com/Kronuz/SublimeCodeIntel)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-- Vagrant
+- [Vagrant](http://downloads.vagrantup.com/)
 - Dash
 - Firefox
  - Firebug
