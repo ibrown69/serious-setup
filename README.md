@@ -5,7 +5,7 @@ Find software that works. Write it down here, then think about using Puppet/Auto
 ## Dev Tools
 
 - [Sublime Text 2](http://www.sublimetext.com/2) - [Config](http://www.sublimetext.com/docs/2/osx_command_line.html)
- - [Sublime Package Manageer](http://laravel.com)
+    - [Sublime Package Manageer](http://wbond.net/sublime_packages/package_control/installation)
 - VirtualBox
 - Vagrant
 - Dash
