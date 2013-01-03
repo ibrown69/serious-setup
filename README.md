@@ -24,3 +24,4 @@ Find software that works. Write it down here, then think about using Puppet/Auto
   -  NPM Modules: ```$ npm install recess uglify-js jshint -g```
 - [Composer](https://getcomposer.org)
   - ```curl -s https://getcomposer.org/installer | php```
+- [Cyberduck](http://cyberduck.ch/)
