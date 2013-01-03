@@ -15,6 +15,7 @@ Find software that works. Write it down here, then think about using Puppet/Auto
   - [Web Developer Toolbar](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
   - [Poster](https://addons.mozilla.org/en-us/firefox/addon/poster/)
   - [ColorZilla](http://www.colorzilla.com/firefox/)
+  - [User Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher/) - Remember to download a full list [here](http://techpatterns.com/forums/about304.html)
 - Chrome
 - Safari
 - Opera
