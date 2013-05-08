@@ -19,6 +19,7 @@ Find software that works. Write it down here, then think about using Puppet/Auto
   - [ColorZilla](http://www.colorzilla.com/firefox/)
   - [User Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher/) - Remember to download a full list [here](http://techpatterns.com/forums/about304.html)
 - [Chrome](www.google.co.uk/chrome)
+  - [PageSpeed](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en) 
 - Safari - Just make sure it's there…
 - [Opera](http://www.opera.com/browser/)
 - [Dot Files](https://github.com/bennomcmanus/dotfiles)
