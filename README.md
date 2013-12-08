@@ -26,6 +26,7 @@ Find software that works. Write it down here, then think about using Puppet/Auto
 
 ###Browsers
 * [Firefox](http://www.mozilla.org/)
+	* Create a new "Web Developer profile" - `/Applications/Firefox.app/Contents/MacOS/firefox-bin -p`
 	* [Firebug](http://getfirebug.com/)
   	* [Web Developer Toolbar](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
   	* [Poster](https://addons.mozilla.org/en-us/firefox/addon/poster/)
