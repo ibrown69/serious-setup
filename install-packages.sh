@@ -1,10 +1,11 @@
 #!/bin/bash
 
 packages=(
-	mysql
-	wget
-	rbenv
-	ruby-build
+  mysql
+  node
+  rbenv
+  ruby-build
+  wget
 )
 
 echo "Installing packages..."
