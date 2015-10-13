@@ -3,6 +3,8 @@
 packages=(
 	mysql
 	wget
+	rbenv
+	ruby-build
 )
 
 echo "Installing packages..."
