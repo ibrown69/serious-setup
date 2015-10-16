@@ -5,6 +5,7 @@ apps=(
   atom
   dash
   firefox
+  fluid
   google-chrome
   iterm2
   mou
@@ -13,7 +14,7 @@ apps=(
   sequel-pro
   skype
   slack
-  spotify
+  spectacle
   spotify
   thyme
   transmission
