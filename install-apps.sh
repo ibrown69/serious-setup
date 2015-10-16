@@ -7,6 +7,7 @@ apps=(
   firefox
   fluid
   google-chrome
+  google-drive
   iterm2
   mou
   opera
