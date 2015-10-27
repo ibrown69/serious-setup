@@ -1,6 +1,8 @@
 #!/bin/bash
 
 packages=(
+  pkg-config
+  dnsmasq
   mysql
   node
   rbenv
